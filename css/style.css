@@ -19,9 +19,7 @@ hr{
 }
 .wrapper{
 	width: 840px;
-	margin: 0 auto;
-	height: 100%;
-	margin-bottom:200px;
+	margin: 40px auto;
 }
 .caption{
 	font-family: "Myriad Pro", Myriad;
